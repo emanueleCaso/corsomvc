@@ -71,9 +71,9 @@
                                         <span aria-hidden="true">&times;</span>
                                         <span class="sr-only">Close</span>
                                     </button>
-                                    <h4 class="modal-title" id="myModalLabel">
-                                        Control
-                                    </h4>
+                                   <center> <h1 class="modal-title" id="myModalLabel">
+                                       CONTROL
+                                    </h1> </center>
                   
                                 </div>
                                 <!-- Modal Body -->
@@ -85,7 +85,7 @@
 
         <table class="table table-bordered">
 
-<th colspan="2"><h2>Planned Task </h2> </th>
+<th colspan="2"><center><h3>Planned Task </h3></center> </th> 
                <tr><td>Id</td>  <td><a href="../../../dbp/task_record/open/{task_id}">{task_id}</a></td></tr>
              <tr> <td>Task Name</td> <td>{name}</td></tr>
                <tr><td>Task Description</td>  <td>{description}</td></tr>
@@ -99,6 +99,21 @@
 
 
 </table>
+ <table class="table table-bordered">
+
+<th colspan="2"><center><h3>Executed Task </h3></center> </th> 
+               <tr><td>Id</td>  <td><a href="../../../dbp/task_record/open/{task_id}">{task_id}</a></td></tr>
+             <tr> <td>Task Name</td> <td>{name}</td></tr>
+               <tr><td>Task Description</td>  <td>{description}</td></tr>
+                <tr><td>Start Date </td> <td>{start_time}</td></tr>
+                <tr><td>End Date</td> <td>{end_time}</td></tr>
+                <tr><td>Setup (hr)</td>   <td>{setup}</td></tr>
+                <tr><td>Cycle (min)</td>   <td>{cycletime}</td></tr>
+                <tr><td>Dept ID</td>    <td>{department_id}</td></tr>
+                <tr><td>Machine ID</td>    <td>{machine_id}</td></tr>
+                <tr><td>Tool ID</td>   <td>{tooling_id}</td></tr>
+</table>
+
 </div>
                                           <div class="form-group row">
                                                 <label class="col-sm-3 control-label text-right"><label></label></label>
