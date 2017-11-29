@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/progetto_sii/!svn/ver/7/controllers/examples/cms
+END
+BlockExtended.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/1/controllers/examples/cms/BlockExtended.php
+END
+CompositePage.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/1/controllers/examples/cms/CompositePage.php
+END
+Localization.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/progetto_sii/!svn/ver/1/controllers/examples/cms/Localization.php
+END
+Block.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/progetto_sii/!svn/ver/1/controllers/examples/cms/Block.php
+END
+NavigationBar.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/7/controllers/examples/cms/NavigationBar.php
+END
+BlockDataRepeater.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/controllers/examples/cms/BlockDataRepeater.php
+END
+HelloWorld.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/progetto_sii/!svn/ver/1/controllers/examples/cms/HelloWorld.php
+END
+HelloWorldSecond.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/progetto_sii/!svn/ver/1/controllers/examples/cms/HelloWorldSecond.php
+END

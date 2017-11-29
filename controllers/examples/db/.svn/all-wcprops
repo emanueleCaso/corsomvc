@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/progetto_sii/!svn/ver/9/controllers/examples/db
+END
+PartPaginatorSorter.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartPaginatorSorter.php
+END
+PartPaginatorSorterSearchExternal.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartPaginatorSorterSearchExternal.php
+END
+PartListManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/progetto_sii/!svn/ver/9/controllers/examples/db/PartListManager.php
+END
+PartCustomPaginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartCustomPaginator.php
+END
+PartPaginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartPaginator.php
+END
+PartPaginatorSorterSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartPaginatorSorterSearch.php
+END
+PartList.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartList.php
+END
+PartRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/progetto_sii/!svn/ver/1/controllers/examples/db/PartRecord.php
+END

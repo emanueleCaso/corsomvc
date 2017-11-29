@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/models/examples/db
+END
+PartListManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/progetto_sii/!svn/ver/1/models/examples/db/PartListManager.php
+END
+PartPaginator.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/progetto_sii/!svn/ver/1/models/examples/db/PartPaginator.php
+END
+PartList.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/progetto_sii/!svn/ver/1/models/examples/db/PartList.php
+END
+PartRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/progetto_sii/!svn/ver/1/models/examples/db/PartRecord.php
+END

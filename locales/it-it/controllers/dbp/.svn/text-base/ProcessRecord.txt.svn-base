@@ -1,0 +1,7 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+errormsg=Si sono verificati errori:
+New_Record=Aggiungi un nuovo processo
+Edit_Record=Modifica processo. Codice
+errormsg= Si sono verificati i seguenti errori:
+AddNewPart= Aggiungi un nuovo processo
+ProcessRecord= Gestione Processo

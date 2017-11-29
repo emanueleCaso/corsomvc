@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/progetto_sii/!svn/ver/40/templates/dbp
+END
+contacts.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/progetto_sii/!svn/ver/42/templates/dbp/contacts.html.tpl
+END
+index.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/37/templates/dbp/index.html.tpl
+END
+operations.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/progetto_sii/!svn/ver/36/templates/dbp/operations.html.tpl
+END
+process_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/progetto_sii/!svn/ver/25/templates/dbp/process_search_form.html.tpl
+END
+task_record.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/progetto_sii/!svn/ver/40/templates/dbp/task_record.html.tpl
+END
+input.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/26/templates/dbp/input.html.tpl
+END
+route_sheet.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/progetto_sii/!svn/ver/38/templates/dbp/route_sheet.html.tpl
+END
+navigation_bar_record.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/progetto_sii/!svn/ver/33/templates/dbp/navigation_bar_record.html.tpl
+END
+navigation_bar.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/progetto_sii/!svn/ver/33/templates/dbp/navigation_bar.html.tpl
+END
+operations_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/35/templates/dbp/operations_search_form.html.tpl
+END
+input_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/progetto_sii/!svn/ver/24/templates/dbp/input_search_form.html.tpl
+END
+process_record.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/progetto_sii/!svn/ver/40/templates/dbp/process_record.html.tpl
+END
+task_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/progetto_sii/!svn/ver/28/templates/dbp/task_search_form.html.tpl
+END
+output.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/progetto_sii/!svn/ver/24/templates/dbp/output.html.tpl
+END
+output_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/24/templates/dbp/output_search_form.html.tpl
+END
+processes.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/progetto_sii/!svn/ver/33/templates/dbp/processes.html.tpl
+END

@@ -1,0 +1,23 @@
+#Load:locales/en/controllers/dbp/Index.txt
+OperationsList= Operations List
+TaskCode= Task Code
+OperationsSearchFormTitle= Search an operation
+WorkID= Work ID
+WorkIDPlaceholder= Please specify a work ID
+ProgramName= Program Name
+MU= MU
+CutterDescr= Cutter Description
+PosMag= Pos. Mag.
+ZMin= Z min.
+WorkType= Work Type
+PosTable= Table Position
+StepXY= STEP XY
+StepZ= STEP Z
+ProfileOff= Profile Offset
+SgrossOff= Sgross Offset
+PlaneOff= Plane Offset
+RPM= RPM
+AVA= Progress
+ProgNamePlaceholder= Please specify a Program Name
+MUPlaceholder= Please specify a MU
+CutterDescrPlaceholder= Please specify a Cutter

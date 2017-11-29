@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/progetto_sii/!svn/ver/22/models/beans
+END
+BeanOrderFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/progetto_sii/!svn/ver/1/models/beans/BeanOrderFile.php
+END
+BeanGoodMovement.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/progetto_sii/!svn/ver/1/models/beans/BeanGoodMovement.php
+END
+BeanPartType.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/1/models/beans/BeanPartType.php
+END
+BeanOrderMacroActivity.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/progetto_sii/!svn/ver/1/models/beans/BeanOrderMacroActivity.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/progetto_sii/!svn/ver/1/models/beans/index.html
+END
+BeanProcess.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/19/models/beans/BeanProcess.php
+END
+BeanCustomerOrder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/progetto_sii/!svn/ver/1/models/beans/BeanCustomerOrder.php
+END
+BeanPartCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/progetto_sii/!svn/ver/1/models/beans/BeanPartCategory.php
+END
+BeanPart.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/progetto_sii/!svn/ver/3/models/beans/BeanPart.php
+END
+BeanFileType.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/1/models/beans/BeanFileType.php
+END
+BeanStock.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/progetto_sii/!svn/ver/1/models/beans/BeanStock.php
+END
+BeanCustomer.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/1/models/beans/BeanCustomer.php
+END
+BeanBom.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/progetto_sii/!svn/ver/1/models/beans/BeanBom.php
+END
+BeanOrderStatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/progetto_sii/!svn/ver/1/models/beans/BeanOrderStatus.php
+END
+BeanMeasurementUnit.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/progetto_sii/!svn/ver/1/models/beans/BeanMeasurementUnit.php
+END
+BeanStore.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/progetto_sii/!svn/ver/1/models/beans/BeanStore.php
+END
+BeanTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/progetto_sii/!svn/ver/22/models/beans/BeanTask.php
+END

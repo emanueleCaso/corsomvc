@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/progetto_sii/!svn/ver/1/util/mysqlreflection
+END
+MVCMySqlPKAnalyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlPKAnalyzer.php
+END
+MVCMySqlFieldToAttributeReflection.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlFieldToAttributeReflection.php
+END
+MVCMySqlTableReflection.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlTableReflection.php
+END
+MVCMySqlBeanClass.php.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlBeanClass.php.tpl
+END
+MVCMySqlBeanBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlBeanBuilder.php
+END
+mysqlreflection.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/util/mysqlreflection/mysqlreflection.config.php
+END
+MVCMySqlSimpleTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlSimpleTemplate.php
+END
+MVCMySqlSchemaReflection.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/progetto_sii/!svn/ver/1/util/mysqlreflection/MVCMySqlSchemaReflection.php
+END

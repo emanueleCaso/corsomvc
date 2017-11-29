@@ -1,0 +1,7 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+InputList= Lista degli Input
+TaskCode= Codice Task
+InputSearchFormTitle= Cerca un input
+InputID= Input ID
+InputCodePlaceholder= Specificare ID dell'input
+Type= Tipo

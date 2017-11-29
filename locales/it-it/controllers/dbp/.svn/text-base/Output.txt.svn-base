@@ -1,0 +1,7 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+OutputList= Lista degli Output
+TaskCode= Codice Task
+OutputSearchFormTitle= Cerca un output
+OutputID= Output ID
+OutputCodePlaceholder= Specificare ID dell'output
+Type= Tipo

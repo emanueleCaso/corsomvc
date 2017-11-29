@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/templates/builders
+END
+skeleton_builder.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/progetto_sii/!svn/ver/1/templates/builders/skeleton_builder.html.tpl
+END
+editor_default.nav.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/templates/builders/editor_default.nav.html.tpl
+END
+classes_template.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/progetto_sii/!svn/ver/1/templates/builders/classes_template.html.tpl
+END
+index.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/progetto_sii/!svn/ver/1/templates/builders/index.html.tpl
+END
+template_editor.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/progetto_sii/!svn/ver/1/templates/builders/template_editor.html.tpl
+END
+editor_default.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/1/templates/builders/editor_default.html.tpl
+END

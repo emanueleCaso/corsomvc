@@ -1,0 +1,7 @@
+#Load:locales/en/controllers/dbp/Index.txt
+OutputList= Output List
+TaskCode= Task Code
+OutputSearchFormTitle= Search an output
+OutputID= Output ID
+OutputCodePlaceholder= Please specify an output ID
+Type= Type

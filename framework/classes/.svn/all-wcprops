@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/progetto_sii/!svn/ver/1/framework/classes
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/progetto_sii/!svn/ver/1/framework/classes/License.txt
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/progetto_sii/!svn/ver/1/framework/classes/Locale.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/progetto_sii/!svn/ver/1/framework/classes/Common.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/progetto_sii/!svn/ver/1/framework/classes/index.html
+END
+HTMLFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/progetto_sii/!svn/ver/1/framework/classes/HTMLFormatter.php
+END
+Globalize.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/progetto_sii/!svn/ver/1/framework/classes/Globalize.php
+END

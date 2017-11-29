@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/progetto_sii/!svn/ver/27/framework
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/progetto_sii/!svn/ver/1/framework/License.txt
+END
+BeanUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/progetto_sii/!svn/ver/1/framework/BeanUser.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/progetto_sii/!svn/ver/1/framework/Controller.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/progetto_sii/!svn/ver/1/framework/index.html
+END
+BeanAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/progetto_sii/!svn/ver/1/framework/BeanAdapter.php
+END
+Ace.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/progetto_sii/!svn/ver/1/framework/Ace.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/framework/View.php
+END
+Dispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/progetto_sii/!svn/ver/1/framework/Dispatcher.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/progetto_sii/!svn/ver/27/framework/Model.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/framework/User.php
+END
+MySqlRecordSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/progetto_sii/!svn/ver/1/framework/MySqlRecordSet.php
+END
+Bean.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/framework/Bean.php
+END
+RBAC.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/framework/RBAC.php
+END
+MySqlRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/progetto_sii/!svn/ver/1/framework/MySqlRecord.php
+END
+Loader.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/progetto_sii/!svn/ver/1/framework/Loader.php
+END

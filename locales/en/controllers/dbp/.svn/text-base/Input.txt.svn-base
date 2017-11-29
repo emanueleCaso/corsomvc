@@ -1,0 +1,7 @@
+#Load:locales/en/controllers/dbp/Index.txt
+InputList= Input List
+TaskCode= Task Code
+InputSearchFormTitle= Search an input
+InputID= Input ID
+InputCodePlaceholder= Please specify an input ID
+Type= Type

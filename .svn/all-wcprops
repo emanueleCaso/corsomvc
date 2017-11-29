@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/progetto_sii/!svn/ver/40/
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/progetto_sii/!svn/ver/1/phpinfo.php
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/progetto_sii/!svn/ver/1/license.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/progetto_sii/!svn/ver/1/.gitignore
+END
+readme.md
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/progetto_sii/!svn/ver/1/readme.md
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/progetto_sii/!svn/ver/1/.gitattributes
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/progetto_sii/!svn/ver/1/index.php
+END
+examples_instructions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/progetto_sii/!svn/ver/1/examples_instructions.txt
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/progetto_sii/!svn/ver/1/.htaccess
+END

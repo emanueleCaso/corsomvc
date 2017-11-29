@@ -1,0 +1,18 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+TaskSearchFormTitle= Cerca un task
+TaskCodePlaceholder= Specificare ID del task
+Input= Input
+Output= Output
+Cycle= Ciclo (min)
+RouteSheet= Foglio di Lavorazione
+ProcessCode= Codice Processo
+ShowInput= Input
+ShowOutput= Output
+TaskNamePlaceholder= Specificare il nome del task
+ImportCSV= Importa CSV
+ShowOperations= Operazioni
+ModalTitle= Importa il file CSV
+CVSHelp= Il file richiesto deve essere presente nella cartella csv
+FileName= Nome del File
+FileNamePlaceholder= Specificare il nome del file
+FileNameSubmit= Importa

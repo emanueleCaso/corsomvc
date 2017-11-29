@@ -1,0 +1,17 @@
+#Load:locales/en/controllers/dbp/Index.txt
+TaskSearchFormTitle= Search a task
+TaskCodePlaceholder= Please specify a task ID
+Input= Input
+Output= Output
+Cycle= Cycle (min)
+RouteSheet= Route Sheet
+ShowInput= Input
+ShowOutput= Output
+TaskNamePlaceholder= Please specify a task name
+ImportCSV= Import CSV
+ShowOperations= Operations
+ModalTitle= Import CSV file
+CVSHelp= The required file must be in the csv folder
+FileName= File Name
+FileNamePlaceholder= Please specify the file name
+FileNameSubmit= Import

@@ -1,0 +1,23 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+OperationsList= Lista delle Operazioni
+TaskCode= Codice Task
+OperationsSearchFormTitle= Cerca un'operazione
+WorkID= Work ID
+WorkIDPlaceholder= Specificare ID dell'operazione
+ProgramName= Nome Programma
+MU= MU
+CutterDescr= Descrizione Fresa
+PosMag= Pos. Mag.
+ZMin= Z min.
+WorkType= Tipo Lavorazione
+PosTable= Pos. Tavola
+StepXY= STEP XY
+StepZ= STEP Z
+ProfileOff= Offset Profilo
+SgrossOff= Offset Sgross
+PlaneOff= Offset Piano
+RPM= Giri
+AVA= Avanz.
+ProgNamePlaceholder= Specificare il nome del programma
+MUPlaceholder= Specificare MU
+CutterDescrPlaceholder= Specificare fresa

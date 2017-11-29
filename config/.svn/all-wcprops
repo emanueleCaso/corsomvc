@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/progetto_sii/!svn/ver/16/config
+END
+locale.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/progetto_sii/!svn/ver/1/config/locale.config.php
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/progetto_sii/!svn/ver/1/config/License.txt
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/progetto_sii/!svn/ver/1/config/index.html
+END
+application.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/progetto_sii/!svn/ver/16/config/application.config.php
+END
+globals.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/progetto_sii/!svn/ver/1/config/globals.config.php
+END
+security.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/progetto_sii/!svn/ver/1/config/security.config.php
+END
+framework.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/progetto_sii/!svn/ver/1/config/framework.config.php
+END

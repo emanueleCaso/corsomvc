@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="dbp@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.1">
+    <root id="1"/>
+    <schema id="2" parent="1" name="dbp">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="mrp"/>
+    <schema id="5" parent="1" name="mysql"/>
+    <schema id="6" parent="1" name="performance_schema"/>
+    <schema id="7" parent="1" name="phpmyadmin"/>
+    <schema id="8" parent="1" name="sii_prova"/>
+    <schema id="9" parent="1" name="test"/>
+    <schema id="10" parent="1" name="dbp2"/>
+    <table id="11" parent="2" name="department">
+      <Comment>Departments</Comment>
+    </table>
+    <table id="12" parent="2" name="input">
+      <Comment>Input</Comment>
+    </table>
+    <table id="13" parent="2" name="machine">
+      <Comment>Machines</Comment>
+    </table>
+    <table id="14" parent="2" name="operations">
+      <Comment>Operations</Comment>
+    </table>
+    <table id="15" parent="2" name="output">
+      <Comment>Output</Comment>
+    </table>
+    <table id="16" parent="2" name="process">
+      <Comment>Processes</Comment>
+    </table>
+    <table id="17" parent="2" name="task">
+      <Comment>Tasks</Comment>
+    </table>
+    <table id="18" parent="2" name="tooling">
+      <Comment>Tooling</Comment>
+    </table>
+    <column id="19" parent="11" name="department_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="20" parent="11" name="factory_id">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="21" parent="11" name="type">
+      <Position>4</Position>
+      <DataType>varchar(45)|0</DataType>
+    </column>
+    <column id="22" parent="11" name="extension_m2">
+      <Position>5</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="23" parent="11" name="number_employees">
+      <Position>6</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="24" parent="11" name="responsible">
+      <Position>7</Position>
+      <DataType>varchar(45)|0</DataType>
+    </column>
+    <column id="25" parent="11" name="name">
+      <Position>2</Position>
+      <DataType>varchar(45)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="26" parent="11" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>department_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="27" parent="12" name="input_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="28" parent="12" name="type">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+    </column>
+    <column id="29" parent="12" name="description">
+      <Position>3</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <column id="30" parent="12" name="task_id">
+      <Position>4</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <index id="31" parent="12" name="fk_task_id_in">
+      <ColNames>task_id</ColNames>
+    </index>
+    <key id="32" parent="12" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>input_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="33" parent="12" name="fk_task_id_in">
+      <ColNames>task_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>task</RefTableName>
+      <RefColNames>task_id</RefColNames>
+    </foreign-key>
+    <column id="34" parent="13" name="machine_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="35" parent="13" name="department_id">
+      <Position>2</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="36" parent="13" name="line_id">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="37" parent="13" name="cell_id">
+      <Position>4</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="38" parent="13" name="dimension_m2">
+      <Position>5</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="39" parent="13" name="weight">
+      <Position>6</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="40" parent="13" name="name">
+      <Position>7</Position>
+      <DataType>varchar(45)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="41" parent="13" name="type">
+      <Position>8</Position>
+      <DataType>varchar(45)|0</DataType>
+    </column>
+    <column id="42" parent="13" name="description">
+      <Position>9</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <key id="43" parent="13" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>machine_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="44" parent="14" name="work_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="45" parent="14" name="program_name">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="46" parent="14" name="mu">
+      <Position>3</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="47" parent="14" name="cutter_description">
+      <Position>4</Position>
+      <DataType>varchar(200)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="48" parent="14" name="pos_mag">
+      <Position>5</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="49" parent="14" name="z_min">
+      <Position>6</Position>
+      <DataType>float|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="50" parent="14" name="work_type">
+      <Position>7</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <column id="51" parent="14" name="pos_table">
+      <Position>8</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="52" parent="14" name="step_xy">
+      <Position>9</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="53" parent="14" name="step_z">
+      <Position>10</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="54" parent="14" name="profile_offset">
+      <Position>11</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="55" parent="14" name="sgross_offset">
+      <Position>12</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="56" parent="14" name="plane_offset">
+      <Position>13</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="57" parent="14" name="rpm">
+      <Position>14</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="58" parent="14" name="ava">
+      <Position>15</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="59" parent="14" name="task_id">
+      <Position>16</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <index id="60" parent="14" name="fk_task_id_op">
+      <ColNames>task_id</ColNames>
+    </index>
+    <key id="61" parent="14" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>work_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="62" parent="14" name="fk_task_id_op">
+      <ColNames>work_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>task</RefTableName>
+      <RefColNames>task_id</RefColNames>
+    </foreign-key>
+    <column id="63" parent="15" name="output_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="64" parent="15" name="type">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="65" parent="15" name="description">
+      <Position>3</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <column id="66" parent="15" name="task_id">
+      <Position>4</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <index id="67" parent="15" name="fk_task_id_out">
+      <ColNames>task_id</ColNames>
+    </index>
+    <key id="68" parent="15" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>output_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="69" parent="15" name="fk_task_id_out">
+      <ColNames>task_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>task</RefTableName>
+      <RefColNames>task_id</RefColNames>
+    </foreign-key>
+    <column id="70" parent="16" name="process_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="71" parent="16" name="name">
+      <Position>2</Position>
+      <DataType>varchar(40)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="72" parent="16" name="start_time">
+      <Position>3</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <column id="73" parent="16" name="end_time">
+      <Position>4</Position>
+      <DataType>date|0</DataType>
+    </column>
+    <key id="74" parent="16" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>process_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="75" parent="17" name="task_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="76" parent="17" name="name">
+      <Position>2</Position>
+      <DataType>varchar(50)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="77" parent="17" name="start_time">
+      <Position>4</Position>
+      <DataType>date|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="78" parent="17" name="end_time">
+      <Position>5</Position>
+      <DataType>date|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="79" parent="17" name="description">
+      <Position>3</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <column id="80" parent="17" name="department_id">
+      <Position>9</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="81" parent="17" name="machine_id">
+      <Position>10</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="82" parent="17" name="tooling_id">
+      <Position>11</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="83" parent="17" name="setup">
+      <Position>6</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <column id="84" parent="17" name="process_id">
+      <Position>8</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="85" parent="17" name="cycletime">
+      <Position>7</Position>
+      <DataType>float|0</DataType>
+    </column>
+    <index id="86" parent="17" name="fk_dept_id">
+      <ColNames>department_id</ColNames>
+    </index>
+    <index id="87" parent="17" name="fk_machine_id">
+      <ColNames>machine_id</ColNames>
+    </index>
+    <index id="88" parent="17" name="fk_tooling_id">
+      <ColNames>tooling_id</ColNames>
+    </index>
+    <index id="89" parent="17" name="fk_process_id">
+      <ColNames>process_id</ColNames>
+    </index>
+    <key id="90" parent="17" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>task_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="91" parent="17" name="fk_process_id">
+      <ColNames>process_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>process</RefTableName>
+      <RefColNames>process_id</RefColNames>
+    </foreign-key>
+    <foreign-key id="92" parent="17" name="fk_dept_id">
+      <ColNames>department_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>department</RefTableName>
+      <RefColNames>department_id</RefColNames>
+    </foreign-key>
+    <foreign-key id="93" parent="17" name="fk_machine_id">
+      <ColNames>machine_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>machine</RefTableName>
+      <RefColNames>machine_id</RefColNames>
+    </foreign-key>
+    <foreign-key id="94" parent="17" name="fk_tooling_id">
+      <ColNames>tooling_id</ColNames>
+      <RefSchemaName>dbp</RefSchemaName>
+      <RefTableName>tooling</RefTableName>
+      <RefColNames>tooling_id</RefColNames>
+    </foreign-key>
+    <column id="95" parent="18" name="tooling_id">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="96" parent="18" name="description">
+      <Position>3</Position>
+      <DataType>varchar(200)|0</DataType>
+    </column>
+    <column id="97" parent="18" name="name">
+      <Position>2</Position>
+      <DataType>varchar(45)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <key id="98" parent="18" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <ColNames>tooling_id</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>

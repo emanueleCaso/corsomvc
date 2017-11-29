@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/progetto_sii/!svn/ver/1/templates/examples/db
+END
+part_list.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/progetto_sii/!svn/ver/1/templates/examples/db/part_list.html.tpl
+END
+part_list_manager.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/progetto_sii/!svn/ver/1/templates/examples/db/part_list_manager.html.tpl
+END
+part_paginator_sorter_search_external.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/progetto_sii/!svn/ver/1/templates/examples/db/part_paginator_sorter_search_external.html.tpl
+END
+part_paginator_sorter.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/progetto_sii/!svn/ver/1/templates/examples/db/part_paginator_sorter.html.tpl
+END
+part_paginator.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/progetto_sii/!svn/ver/1/templates/examples/db/part_paginator.html.tpl
+END
+custom_paginator.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/templates/examples/db/custom_paginator.html.tpl
+END
+part_paginator_sorter_search.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/progetto_sii/!svn/ver/1/templates/examples/db/part_paginator_sorter_search.html.tpl
+END
+part_custom_paginator.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/progetto_sii/!svn/ver/1/templates/examples/db/part_custom_paginator.html.tpl
+END
+part_search_form.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/progetto_sii/!svn/ver/1/templates/examples/db/part_search_form.html.tpl
+END
+part_record.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/progetto_sii/!svn/ver/1/templates/examples/db/part_record.html.tpl
+END

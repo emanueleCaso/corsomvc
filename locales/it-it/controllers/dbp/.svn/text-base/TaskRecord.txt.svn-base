@@ -1,0 +1,17 @@
+#Load:locales/it-it/controllers/dbp/Index.txt
+errormsg=Errors occurred:
+New_Record=Aggiungi un nuovo task
+Edit_Record=Modifica task. Codice
+errormsg= Si sono verificati i seguenti errori:
+AddNewPart= Aggiungi un nuovo task
+TaskDescription=Descrizione Task
+SetupTime= Setup (hr)
+CycleTime= Ciclo (min)
+Department=Dipartimento
+MachineID=ID Macchina
+ToolID=ID Strumento
+department_select_value=Seleziona Dipartimento
+machine_select_value=Seleziona Macchina
+tool_select_value=Seleziona Strumento
+process_select_value=Seleziona Processo
+TaskRecord= Gestione Task

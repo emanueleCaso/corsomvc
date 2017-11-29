@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/progetto_sii/!svn/ver/1/util/templatereflection
+END
+app_run_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/progetto_sii/!svn/ver/1/util/templatereflection/app_run_template.php
+END
+template.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/progetto_sii/!svn/ver/1/util/templatereflection/template.tpl
+END
+standard_bootstrap_template.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/progetto_sii/!svn/ver/1/util/templatereflection/standard_bootstrap_template.html
+END
+TemplateReflection.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/util/templatereflection/TemplateReflection.php
+END

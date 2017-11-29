@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/progetto_sii/!svn/ver/1/templates/examples/cms
+END
+block_extended.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/templates/examples/cms/block_extended.html.tpl
+END
+localization.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/progetto_sii/!svn/ver/1/templates/examples/cms/localization.html.tpl
+END
+navigation_bar_record.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/progetto_sii/!svn/ver/1/templates/examples/cms/navigation_bar_record.html.tpl
+END
+navigation_bar.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/templates/examples/cms/navigation_bar.html.tpl
+END
+composite_page.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/progetto_sii/!svn/ver/1/templates/examples/cms/composite_page.html.tpl
+END
+hello_world.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/progetto_sii/!svn/ver/1/templates/examples/cms/hello_world.html.tpl
+END
+hello_world_second.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/progetto_sii/!svn/ver/1/templates/examples/cms/hello_world_second.html.tpl
+END
+block.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/progetto_sii/!svn/ver/1/templates/examples/cms/block.html.tpl
+END
+hello_world_mobile.html.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/progetto_sii/!svn/ver/1/templates/examples/cms/hello_world_mobile.html.tpl
+END

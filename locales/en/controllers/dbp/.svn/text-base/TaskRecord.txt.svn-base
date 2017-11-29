@@ -1,0 +1,17 @@
+#Load:locales/en/controllers/dbp/Index.txt
+errormsg=Errors occurred:
+New_Record=Add a new task
+Edit_Record=Modify task. Code
+errormsg= Following errors occurred:
+AddNewPart= Add a new task
+TaskDescription=Task Description
+SetupTime= Setup (hr)
+CycleTime= Cycle (min)
+Department=Department
+MachineID=Machine ID
+ToolID=Tool ID
+department_select_value=Select Department
+machine_select_value=Select Machine
+tool_select_value=Select Tool
+process_select_value=Select Process
+TaskRecord= Task Management
