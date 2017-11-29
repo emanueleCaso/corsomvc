@@ -74,17 +74,38 @@
                                     <h4 class="modal-title" id="myModalLabel">
                                         Control
                                     </h4>
+                  
                                 </div>
                                 <!-- Modal Body -->
                                 <div class="modal-body">
                                     <form role="form">
                                         <div class="panel-body">
+                      
+                      <div class="table table-responsive">
 
-                                        
+        <table class="table table-bordered">
 
-                                            <div class="form-group row">
+<th colspan="2"><h2>Planned Task </h2> </th>
+               <tr><td>Id</td>  <td><a href="../../../dbp/task_record/open/{task_id}">{task_id}</a></td></tr>
+             <tr> <td>Task Name</td> <td>{name}</td></tr>
+               <tr><td>Task Description</td>  <td>{description}</td></tr>
+                <tr><td>Start Date </td> <td>{start_time}</td></tr>
+                <tr><td>End Date</td> <td>{end_time}</td></tr>
+                <tr><td>Setup (hr)</td>   <td>{setup}</td></tr>
+                <tr><td>Cycle (min)</td>   <td>{cycletime}</td></tr>
+                <tr><td>Dept ID</td>    <td>{department_id}</td></tr>
+                <tr><td>Machine ID</td>    <td>{machine_id}</td></tr>
+                <tr><td>Tool ID</td>   <td>{tooling_id}</td></tr>
+
+
+</table>
+</div>
+                                          <div class="form-group row">
                                                 <label class="col-sm-3 control-label text-right"><label></label></label>
-                                                <div class="col-sm-8">
+                                                <div class="col-sm-8"> 
+
+
+
 
                                                 
                                                 </div>
